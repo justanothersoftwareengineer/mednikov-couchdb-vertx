@@ -35,7 +35,7 @@
         <dependency>
             <groupId>io.vertx</groupId>
             <artifactId>vertx-web</artifactId>
-            <version>4.0.0-milestone2</version>
+            <version>4.0.0-milestone5</version>
         </dependency>
         <dependency>
             <groupId>org.lightcouch</groupId>
